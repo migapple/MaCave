@@ -1,0 +1,31 @@
+{
+  "appId": "com.michel.garlandat.caveaVin",
+  "appName": "Cave à Vin",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "ios": {
+    "scheme": "CaveaVin",
+    "contentInset": "always",
+    "allowsLinkPreview": false,
+    "scrollEnabled": true,
+    "backgroundColor": "#F2E8D8"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    },
+    "StatusBar": {
+      "style": "LIGHT",
+      "backgroundColor": "#F2E8D8"
+    },
+    "Keyboard": {
+      "resize": "body",
+      "resizeOnFullScreen": true
+    },
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
+}

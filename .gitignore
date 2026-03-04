@@ -1,0 +1,9 @@
+cd /Users/michelgarlandat/Desktop/MaCave
+git init
+git add .
+git commit -m "v1.0.0 - Version initiale"
+git branch -M main
+git remote add origin https://github.com/TON_USERNAME/cave-a-vin.git
+git push -u origin main
+git tag v1.0.0
+git push origin v1.0.0
