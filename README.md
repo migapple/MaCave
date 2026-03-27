@@ -4,6 +4,9 @@ Application iOS de gestion de cave à vin, développée avec Capacitor (HTML/CSS
 
 ---
 
+## 1.2.0
+- ajout nos autres App
+
 ## Fonctionnalités
 
 - **Gestion de la collection** — ajout, modification, suppression de bouteilles
